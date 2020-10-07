@@ -1,6 +1,7 @@
 {
   "name": "take-home-assignment-vue",
   "version": "0.1.0",
+  "description": "Origin Frontend Challenge",
   "private": true,
   "scripts": {
     "start": "npm run serve",
@@ -8,6 +9,22 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WanderGomes/take-home-assignment-vue.git"
+  },
+  "keywords": [
+    "Origin",
+    "Take Home",
+    "Assignment",
+    "Vue"
+  ],
+  "author": {
+    "name": "Wander Rocha Gomes",
+    "email": "wander.rg@gmail.com",
+    "url": "https://github.com/WanderGomes/take-home-assignment-vue.git"
+  },
+  "license": "ISC",
   "dependencies": {
     "core-js": "^3.6.5",
     "rxjs": "^6.6.3",
