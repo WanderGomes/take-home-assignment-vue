@@ -70,7 +70,7 @@
                         </div>
                     </div>
                     <div class="tk-card__footer tk-card__footer--transparent tk-flex tk-justify-content--center">
-                        <button type="submit" id="tk-simulation__submit" class="tk-button tk-button--rounded tk-button--blue" disabled="{{!totalAmount}}">
+                        <button type="submit" id="tk-simulation__submit" class="tk-button tk-button--rounded tk-button--blue" :disabled="!totalAmount">
                             Confirm
                         </button>
                     </div>
