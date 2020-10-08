@@ -1,4 +1,4 @@
-# TakeHomeAssigmentReact
+# TakeHomeAssigmentVue
 
 This project was created using:
 - [Vue](https://vuejs.org/) version 3.0.0-0
