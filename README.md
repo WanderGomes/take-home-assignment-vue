@@ -1,4 +1,4 @@
-# TakeHomeAssigmentVue
+# Take Home Assignment Vue
 
 This project was created using:
 - [Vue](https://vuejs.org/) version 3.0.0-0
@@ -30,7 +30,7 @@ Run `npm run lint` to execute the unit tests via [ESLINT](https://eslint.org/).
 ## Doubts or Suggestions
 
 For questions or suggestions about the project, send me an email or send me a message on Whatsapp or on Telegram.
-- [wander.rg@gmail.com]
+- wander.rg@gmail.com
 - [whatsapp](https://wa.me/+5561993398992)
 - [telegram](https://t.me/wandergomes)
 
