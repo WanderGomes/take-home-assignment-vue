@@ -43,9 +43,7 @@
                                 </div>
                             </div>
                             <div class="tk-col" v-if="showDatepicker">
-<!--                                 <Datepicker [label]="'Reach goal by'" [minDate]="minGoalDate" (changeDate)="changeDate($event)"></Datepicker> -->
                                 <Datepicker label="Reach goal by" :minDate="minGoalDate" @change-date="changeDate"></Datepicker>
-<!--                                <RwvArticleMeta :article="article" :actions="true"></RwvArticleMeta>-->
                             </div>
                         </div>
                         <div class="tk-row">
