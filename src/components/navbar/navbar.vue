@@ -1,4 +1,3 @@
-import {ThemeEnum} from "@/enums/theme.enum";
 <template>
     <nav class="tk-nav tk-animation tk-animation--fade-in">
         <div class="tk-nav__items">
